@@ -1,0 +1,25 @@
+{
+  "title": "ButtonAppBar Material Demo",
+  "name": "buttonappbar-material-demo",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "description": "https://github.com/mui-org/material-ui/blob/v5.2.3/docs/src/pages/components/app-bar/ButtonAppBar.js",
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@mui/icons-material": "latest",
+    "@mui/material": "latest",
+    "material-ui-popup-state": "2.0.0",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "keywords": [],
+  "version": "0.0.9",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
