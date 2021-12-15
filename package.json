@@ -1,10 +1,10 @@
 {
   "title": "ButtonAppBar Material Demo",
-  "name": "buttonappbar-material-demo",
+  "name": "mui-test",
   "devDependencies": {
     "react-scripts": "latest"
   },
-  "description": "https://github.com/mui-org/material-ui/blob/v5.2.3/docs/src/pages/components/app-bar/ButtonAppBar.js",
+  "description": "",
   "dependencies": {
     "@emotion/react": "latest",
     "@emotion/styled": "latest",
